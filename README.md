@@ -2,7 +2,7 @@
 
 This is our official code base for the paper _More than Correlation: Do Large Language Models Learn Causal Representations of Space?_
 
-Author: Yida Chen, Yixian Gan, Sijia Li, Li Yao, Xiaohan Zhao (listed in alphabetical order of the last names)
+Authors: Yida Chen, Yixian Gan, Sijia Li, Li Yao, Xiaohan Zhao (listed in alphabetical order of the last names)
 
 
 ## How to Use?
