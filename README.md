@@ -1,6 +1,6 @@
 # LLM Causal Spatial Representations
 
-This is our official code base for the paper _More than Correlation: Do Large Language Models Learn Causal Representations of Space?_
+This is our official code base for the paper [_More than Correlation: Do Large Language Models Learn Causal Representations of Space?_](https://arxiv.org/abs/2312.16257)
 
 Authors: Yida Chen, Yixian Gan, Sijia Li, Li Yao, Xiaohan Zhao (listed in alphabetical order of the last names)
 
@@ -65,3 +65,17 @@ where `bs` is the batch size. `feat_name` needs to be changed to `last_hidden_st
 
 ### intervention_nextword.ipynb
 This notebook contains code for **causal intervention on LLM next word prediction (Section 6.2 in the paper)**. See in-line comments for detailed instructions on how to run the code.
+
+
+## Citation
+If you found our code useful for your research, please cite our paper:
+```
+@misc{chen2023correlation,
+      title={More than Correlation: Do Large Language Models Learn Causal Representations of Space?}, 
+      author={Yida Chen and Yixian Gan and Sijia Li and Li Yao and Xiaohan Zhao},
+      year={2023},
+      eprint={2312.16257},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
